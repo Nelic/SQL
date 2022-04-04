@@ -1,0 +1,43 @@
+CREATE TABLE "Country"
+(
+	"name" VARCHAR NOT NULL,
+	"money" VARCHAR NOT NULL,
+	"government_type" VARCHAR NOT NULL,
+	"capital" VARCHAR NOT NULL,
+	"second_city" VARCHAR,
+	"continennt" VARCHAR NOT NULL,
+	FOREIGN KEY money REFERENCES Economical_data(money),
+	FOREIGN KEY government_type REFERENCES Political_data(government_type),
+	FOREIGN KEY continennt REFERENCES Continent(name),
+	PRIMARY KEY("name") 
+)
+
+CREATE TABLE "Country" 
+( 
+	"name" VARCHAR NOT NULL, 
+	"money" VARCHAR NOT NULL, 
+	"government_type" VARCHAR NOT NULL, 
+	"capital" VARCHAR NOT NULL, 
+	"second_city" VARCHAR NOT NULL, 
+	"continent" VARCHAR NOT NULL, 
+	PRIMARY KEY("name") 
+)
+
+CREATE TABLE Have_relief
+(
+	relief VARCHAR NOT NULL,
+	country VARCHAR NOT NULL,
+	FOREIGN KEY (relief) REFERENCES Relief(relief)
+	ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (country) REFERENCES Country(name)
+	ON DELETE CASCADE ON UPDATE CASCADE
+
+)
+
+
+
+SELECT 
+	Country.name,
+	Geografical_data.area
+FROM Country INNER JOIN Geografical_data 
+ON Country.name = Geografical_data.country

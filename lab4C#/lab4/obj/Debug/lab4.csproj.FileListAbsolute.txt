@@ -1,0 +1,78 @@
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Buffers.dll
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Memory.dll
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Buffers.xml
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Memory.xml
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nelik\Desktop\lab4\lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.Students.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.stud.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.Professor.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.labs.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.practice.resources
+C:\Users\Nelik\Desktop\lab4\lab4\obj\Debug\lab4.Attendance_lectures.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\lab4.exe.config
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\lab4.exe
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\lab4.pdb
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Buffers.dll
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Memory.dll
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Buffers.xml
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Memory.xml
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.Attendance_lectures.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.Students.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.labs.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.practice.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.Professor.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.stud.resources
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.exe
+C:\Users\Nelik\Desktop\4course\Спец мови програмування\lab4 C#\lab4\obj\Debug\lab4.pdb
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\lab4.exe.config
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\lab4.exe
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\lab4.pdb
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Buffers.dll
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Memory.dll
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Buffers.xml
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Memory.xml
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.Attendance_lectures.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.Students.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.labs.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.practice.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.Professor.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.stud.resources
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.exe
+C:\Users\Nelik\Desktop\4course\prog\lab4C#\lab4\obj\Debug\lab4.pdb
